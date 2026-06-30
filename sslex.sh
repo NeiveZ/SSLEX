@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 # sslex.sh — Launcher for SSLEX (SSL/TLS Scanner)
-# Resolves its own directory so it can be run from anywhere,
-# checks the Python version, and hands off to the interactive console.
 
 set -euo pipefail
 
