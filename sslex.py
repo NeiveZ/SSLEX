@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 SSLEX - SSL/TLS Scanner
-Author: NeiveZ | github.com/NeiveZ/SSLEX
+Author: NeiveZ | github.com/NeiveZ/SSLEX 
 """
 
 import cmd, sys, os, json, shutil
